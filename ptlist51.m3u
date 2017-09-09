@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1,ABC TV PARAGUAY  tugafree.net [608x352]
+http://192.99.45.99:8000/live/Rodi80/ra8805/2.ts
+#EXTINF:-1,PT | FOX HD  tugafree.net [768x576]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3098.ts
+#EXTINF:-1,PT | SPORTING TV  tugafree.net [768x576]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2792.ts
+#EXTINF:-1,PT | SIC RADICAL  tugafree.net [768x576]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2794.ts
+#EXTINF:-1,PT | TVI 24  tugafree.net [768x576]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3080.ts
+#EXTINF:-1,PT | SPORT TV 4 HD  tugafree.net [1920x1088]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2992.ts
+#EXTINF:-1,PT | SPORT TV 1 HD  tugafree.net [1440x1088]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2989.ts
+#EXTINF:-1,PT | TVCINE 4  tugafree.net [4x0]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2791.ts
+#EXTINF:-1,PT | TVCINE 1  tugafree.net [1920x816]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2788.ts
+#EXTINF:-1, Sport TV 3  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25124.ts
+#EXTINF:-1,PT | NAT GEO HD  tugafree.net [720x576]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3101.ts
+#EXTINF:-1,PT | TVCINE 2  tugafree.net [0x8]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2789.ts
+#EXTINF:-1,PT | TVCINE 3  tugafree.net [720x304]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2790.ts
+#EXTINF:-1, Sport TV1 HD  tugafree.net [1920x1088]
+http://217.182.201.198:8000/live/filippo1/carmine/25128.ts
+#EXTINF:-1, Sport TV 1  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25126.ts
+#EXTINF:-1,IPTV PARAGUAY SD  tugafree.net [608x352]
+http://192.99.45.99:8000/live/Rodi80/ra8805/3.ts
+#EXTINF:-1,PT | SPORT TV 3 HD  tugafree.net [720x576]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2991.ts
+#EXTINF:-1,AXN WHITE HD  tugafree.net [784x576]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2812.ts
+#EXTINF:-1,PT | A BOLA TV  tugafree.net [768x576]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3090.ts
+#EXTINF:-1, ENTERTAINMENT  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25057.ts
+#EXTINF:-1, SPORT TV   HD 1080  tugafree.net [1920x1088]
+http://144.217.71.168:8000/live/julio/julio/5794.ts
+#EXTINF:-1,PT | RTP 1  tugafree.net [720x304]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2797.ts
+#EXTINF:-1,FOX CRIME HD  tugafree.net [784x576]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3099.ts
+#EXTINF:-1,PT | SPORT TV 2 HD  tugafree.net [1280x720]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2990.ts
+#EXTINF:-1,RTP 2  tugafree.net [1440x1088]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2798.ts
+#EXTINF:-1, Fox HD  tugafree.net [1280x720]
+http://217.182.201.198:8000/live/filippo1/carmine/25108.ts
+#EXTINF:-1,PT | SPORT TV 5 HD  tugafree.net [768x576]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3087.ts
+#EXTINF:-1, Fox Comedy  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25105.ts
+#EXTINF:-1,PT | FOX COMEDY  tugafree.net [768x576]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2811.ts
+#EXTINF:-1, Historia  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25049.ts
+#EXTINF:-1, SPORT TV 1 HD 1080  tugafree.net [1920x1088]
+http://144.217.71.168:8000/live/julio/julio/5799.ts
+#EXTINF:-1, MCS EXTREME  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25082.ts
+#EXTINF:-1, Benfica TV  tugafree.net [1440x1088]
+http://217.182.201.198:8000/live/filippo1/carmine/25043.ts
+#EXTINF:-1, RTP Memoria  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25113.ts
+#EXTINF:-1,SIC Kids  tugafree.net [720x576]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2802.ts
+#EXTINF:-1, RTP 1  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25118.ts
+#EXTINF:-1, SPORT TV  HD 1080  tugafree.net [1920x1088]
+http://144.217.71.168:8000/live/julio/julio/5800.ts
+#EXTINF:-1,PT | AXN BLACK HD  tugafree.net [768x576]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3097.ts
+#EXTINF:-1, Fox Crime  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25104.ts
+#EXTINF:-1, SPORT TV 3 HD 1080  tugafree.net [1920x1088]
+http://144.217.71.168:8000/live/julio/julio/5797.ts
+#EXTINF:-1, Kombat Sports  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25062.ts
+#EXTINF:-1, RTP 2  tugafree.net [704x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25117.ts
+#EXTINF:-1,PT | TVI FICCAO  tugafree.net [0x8]
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2804.ts
+#EXTINF:-1, Cine Mundo  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25103.ts
+#EXTINF:-1, Sic Mulher  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25053.ts
+#EXTINF:-1, Sport TV 2  tugafree.net [1920x1088]
+http://217.182.201.198:8000/live/filippo1/carmine/25125.ts
+#EXTINF:-1, Disney JR  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25085.ts
+#EXTINF:-1, Sport TV3  tugafree.net [1920x1088]
+http://217.182.201.198:8000/live/filippo1/carmine/25123.ts
+#EXTINF:-1, Sic Radical  tugafree.net [720x576]
+http://217.182.201.198:8000/live/filippo1/carmine/25080.ts
+#EXTINF:-1, Sport TV 5  tugafree.net [1920x1088]
+http://217.182.201.198:8000/live/filippo1/carmine/25121.ts
+#EXTINF:-1, Sport TV2 HD  tugafree.net [1920x1088]
+http://217.182.201.198:8000/live/filippo1/carmine/25127.ts
